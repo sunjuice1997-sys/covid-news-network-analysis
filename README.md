@@ -10,4 +10,4 @@ Contents:
 - `data` - Collected and extracted data.
 - `datasets` - Public external datasets.
 - `individual_sites` - Scripts to select and download articles found by scraping individual websites.
-- `twitter` - Scripts to extract, download, and parse twitter data.
+- `twitter` - Scripts to extract, download, and parse twitter data
